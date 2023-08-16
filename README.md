@@ -1,6 +1,4 @@
-Microsoft Word - Heidelberg Guide.docx \* {margin:0; padding:0; text-indent:0; } .s1 { color: #636A6B; font-family:Verdana, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 40pt; } .s2 { color: black; font-family:Verdana, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 13pt; } h3 { color: #636A6B; font-family:Tahoma, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 8pt; } h2 { color: black; font-family:Verdana, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; } .p, p { color: #636A6B; font-family:Verdana, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 8pt; margin:0pt; } h1 { color: black; font-family:Verdana, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 13pt; } .h4 { color: black; font-family:Verdana, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 5pt; } .s3 { color: #636A6B; font-family:Verdana, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 13pt; }
-
-Heidelberg Guide
+# Heidelberg Guide
 
   
 
